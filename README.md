@@ -1,9 +1,9 @@
-----
+
 Added wither esp (full good now)
 Added color selector to wither esp
 Added carnival stuff, golden fish/blue fish esp and esp line (carnival might be over idk)
 Added color selector to dungeon mob esp 
-----
+
 Forced particles to be on "All" instead of "Minimal" (this does not turn on all your particles but allows villager particles to show fixing crash)
 Fixed bug for chest profit to not show if u had particles on "Minimal" :)
 Fixed blaze and water showing time to complete even if the setting is disabled
@@ -15,7 +15,7 @@ Added Relic Smooth Look
 Added Relic Auto Walk
 Added very nice Legit Auto IceFill
 Added (Dojo) Test Of Control AimBot
--------------
+
 Current Feature List: (After migrating to amaterasu. this is now also WIP for more feature migration + optimization.)
 Etherwarp Ding
 
